@@ -5,7 +5,12 @@ Mass message Script
 ```
 python3 DiscordSpammer.py
 ```
-
+# keys.py
+```
+key=[
+  header["authorization"]
+]
+```
 # Notice
 This is just a sample project and i will be not responsible for any of your actions.
 
