@@ -1,6 +1,5 @@
 # Discord Server Spammer
-
-This is simple ddos python botnet script for education purpose.
+Mass message Script
 
 # Server-Commands
 ```
